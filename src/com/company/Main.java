@@ -2,6 +2,12 @@ package com.company;
 
 import static com.company.Numbers.*;
 
+/*
+  Name: Marc James A. Gacho
+  Student Number: 21-020217
+  Section: BS-Information Technology 1-B
+ */
+
 /**
  * Using overloaded methods.
  *
